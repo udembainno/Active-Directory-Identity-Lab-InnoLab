@@ -86,5 +86,3 @@ Screenshots:
 - ipconfig /all
 
 
-## Summary
-This lab demonstrates practical identity and access management skills, including Active Directory deployment, DNS integration, Group Policy enforcement, domain authentication, and group-based authorization. The environment closely mirrors real-world enterprise identity infrastructure and security practices.
